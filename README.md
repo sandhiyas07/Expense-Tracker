@@ -54,7 +54,7 @@ Or
 
 ## 📸 Application Preview
 
-<img width="718" height="1600" alt="WhatsApp Image 2026-07-03 at 12 04 56 PM" src="https://github.com/user-attachments/assets/ae6180b6-eacd-44b6-92e4-1db22af9aca8" />
+
 
 
 ## 📚 Concepts Practiced
